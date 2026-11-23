@@ -19,23 +19,34 @@
 
 ## 5. One-page recommendation
 
-##### Recommendation and commercial goal
-Launch Roamly Groups as one complete coordination offering with no additional Groups fee. First increase adoption and completed group bookings among existing Roamly customers showing group intent. Revenue growth should follow additional experience bookings, rather than a new coordination charge. This activates the Module 2 bet: the initiator proposes and invites; friends manage their own participation.
+### Launch recommendation
 
-##### Model and payer
-Coordination is included at launch. Each attendee, including the initiator, pays for their own selected experience under the applicable listed prices and booking terms. Do not add a subscription, seat charge or separate Groups transaction fee. Existing marketplace economics remain subject to Finance verification; no Roamly commission rate or margin is assumed.
+Include the full Roamly Groups coordination flow with no extra Groups fee at launch. First help existing customers who are trying to organize an outing complete their bookings. The commercial goal is to grow revenue through those additional experience bookings. This follows the Module 2 bet: one friend suggests an activity and invites others, then each person manages their own participation.
 
-##### Packaging and audience fit
-Route all launch customers to Roamly Groups — Included ($0 additional coordination fee). Include invitations, availability gathering toward a shared date, activity options, individual booking and payment. Initiators gain relief from administering friends; attendees retain control of choices and payment. These are two messages for one shared workflow, not two paid plans. Defer Good-Better-Best tiers and professional or corporate packages until research supports distinct needs and upgrade value. Host capacity, deadlines, pricing and cancellation rules still apply.
+### What customers pay for
 
-##### Finance: demonstrate incremental contribution
-Validate whether additional completed bookings cover incremental coordination, processing and support costs. Compare contribution margin per eligible group attempt with the existing workflow, including canceled bookings and potential displacement of bookings that would have happened anyway. Establish baseline, conversion window, minimum viable uplift and stop criteria before the pilot; no forecast is presented as proven.
+Each person, including the initiator, pays for their own selected experience at the listed price and under the applicable booking terms. Coordination is included. There is no subscription, seat charge or separate Groups transaction fee. Finance still needs to verify the marketplace economics; this recommendation assumes no particular commission rate or margin.
 
-##### Sales Leadership: make the fit clear
-Recruit existing informal coordinators with observable booking friction, working with Support and lifecycle marketing in this product-led rollout. Explain the total booking cost and provider terms. The competitive argument is less coordination work, not an unsupported claim that Airbnb cannot serve groups or that Roamly is cheaper.
+### One offering for both audiences
 
-##### Product Marketing: communicate the complete offer
-Lead with bringing friends together without chasing everyone's arrangements. State “No additional Groups coordination fee; experience prices and booking terms apply.” Use attendee-specific language about choice and direct payment. Do not use the fictional Module 4 pilot figures or estimated time burden as measured proof.
+Launch one offering, Roamly Groups — Included, with a $0 additional coordination fee. It includes invitations, availability gathering to agree on a shared date, activity options, individual booking and payment. Initiators get relief from managing everyone's arrangements. Attendees keep control of their choices and payment. Both use the same workflow, with a different message for each audience.
 
-##### First validation and research method
-The decisive assumption is that included coordination produces enough additional completed group bookings to cover its costs. Run a controlled pilot against the existing workflow, randomizing at group or initiator level where feasible to avoid splitting a group across conditions. Measure completion and contribution margin per eligible attempt, with cancellation, support burden and attendee completion as diagnostics. Commission Max-Diff with target initiators and attendees to rank capability value and inform future packaging. Max-Diff does not measure willingness to pay or establish causal booking uplift; the pilot tests the commercial assumption.
+Defer Good-Better-Best tiers and professional or corporate packages until research shows distinct needs and a reason to upgrade. Host capacity, deadlines, prices and cancellation rules still apply.
+
+### Finance: can the extra bookings cover the costs?
+
+Compare contribution margin per eligible group attempt with the existing workflow. Include the added coordination, payment-processing and support costs, canceled bookings, and bookings that would have happened anyway. Before the pilot, establish a baseline, a conversion window, the minimum improvement needed and criteria for stopping. The financial benefit remains an assumption to test.
+
+### Sales Leadership: who to recruit and what to explain
+
+For the product-led rollout, work with Support and lifecycle marketing to recruit existing informal coordinators whose booking difficulties can be observed. Explain the total booking cost and provider terms. Compete on reducing coordination work. Avoid unsupported claims that Airbnb cannot serve groups or that Roamly is cheaper.
+
+### Product Marketing: explain what's included
+
+Lead with bringing friends together without chasing everyone's arrangements. State “No additional Groups coordination fee; experience prices and booking terms apply.” For attendees, emphasize choice and direct payment. Keep the fictional Module 4 pilot figures and the estimated coordination time out of claims about measured results.
+
+### Test the commercial assumption and research capability priorities
+
+The first assumption to test is whether included coordination creates enough additional completed group bookings to cover its costs. Compare Groups with the existing workflow in a controlled pilot. Randomize by group or initiator where feasible so members of the same group stay in the same condition. Measure booking completion and contribution margin per eligible attempt. Track cancellations, support burden and attendee completion to understand the results.
+
+Commission Max-Diff research with target initiators and attendees to rank the capabilities they value and inform future packaging. Max-Diff will not establish willingness to pay or prove that Groups causes more bookings. The controlled pilot tests the commercial assumption.
